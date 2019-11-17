@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261422559204",
+    "firebase_url": "https://firstshop-c107b.firebaseio.com",
+    "project_id": "firstshop-c107b",
+    "storage_bucket": "firstshop-c107b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261422559204:android:8862207ff2dde2c6c8a1f1",
+        "android_client_info": {
+          "package_name": "com.hank.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261422559204-egoci4m8gth0kut5gt2v98hjbuv9bn85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hank.shop",
+            "certificate_hash": "ea0c56e270927f72ef3ef3ea50a6f8d7c247f6e0"
+          }
+        },
+        {
+          "client_id": "261422559204-m0rcduk8h9ag5a09jte4nvf9eq3fr2ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHzJE0n570EeNG5h0cY3w8qCCi_ljHDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261422559204-m0rcduk8h9ag5a09jte4nvf9eq3fr2ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
